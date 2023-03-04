@@ -1,5 +1,5 @@
 package bombermanVUB;
 
 public class test {
-	// hello world
+	// hello world test
 }
