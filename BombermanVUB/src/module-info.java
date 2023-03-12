@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author gaeta
- *
- */
-module BombermanVUB {
-}
