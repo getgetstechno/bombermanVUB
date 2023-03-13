@@ -65,7 +65,6 @@ public class Ggame extends JLabel implements KeyListener{
 		this.requestFocusInWindow();
 	}
 
-	@Override
 	public void keyPressed(KeyEvent e) {
 		if(e.getKeyCode() == KeyEvent.VK_UP) {
 			pomper.y -= 10;
